@@ -1,16 +1,20 @@
 #
-![Image Description](https://th.bing.com/th/id/R.9e234304d59bac1062f396d79c82b5c5?rik=BGXFD8Xeut6hew&pid=ImgRaw&r=0)
-
-#
 </p>
+
 <p align = "center" draggable=”false” ><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8HNB-ex4xb4H3-PXRcywP5zKC_3U8VzQTPA&usqp=CAU" 
      width="200px"
      height="auto"/>
 </p>
 
-#
-# 🏭 NPRI - National Pollutant Release Inventory Dataset
+<h1 align="center" id="heading">
+<h1 align="center" id="heading">  🏭 National Pollutant Release Inventory Dataset
 
+<p align = "center" draggable=”false” ><img src="https://th.bing.com/th/id/R.9e234304d59bac1062f396d79c82b5c5?rik=BGXFD8Xeut6hew&pid=ImgRaw&r=0" 
+     width="200px"
+     height="auto"/>
+</p>
+
+# Air Contaminants Trend
 This project involves the exploration, cleaning, and analysis of data from the **National Pollutant Release Inventory (NPRI)**. The NPRI is Canada’s public inventory of pollutant releases, disposals, and transfers, helping ensure transparency and environmental accountability.
 
 ## 📊 Project Overview
